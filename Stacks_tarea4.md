@@ -5,7 +5,7 @@
 
 In a typical analysis, data will be recieved from a Illumina sequencer, or some other type of sequencer as FASTQ files. The first requirment is to demultiplex, or sort, the raw data to recover the individual samples in the Illumina library. While doing this, we will use the <span style="color:blue"> Phred </span> scores provided in the FASTQ files to discard sequencing reads of low quality. These tasks are accomplished using the <span style="color:green"> **process_radtags** </span> program.
 
-![process_radtags.png](/home/majo/Escritorio/process_radtags.png)
+![process_radtags.png](https://github.com/MajoMonteverde/Tareas_Curso_BioinfInvRepro/blob/master/process_radtags.png)
 
 
 Some things to consider when running this program:
