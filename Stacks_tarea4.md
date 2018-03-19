@@ -1,5 +1,4 @@
 # 4. Running the pipeline
-----------------------------------
 
 #### 4.1 Clean the data
 
